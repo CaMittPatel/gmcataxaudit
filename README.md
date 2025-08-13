@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21754056/README.md)
 # Tax Audit Practice Management System
 
 **🌐 Live System**: https://gmcasoftware.netlify.app
